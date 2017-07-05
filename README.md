@@ -3,5 +3,5 @@ Virtual reality app for Android called "Carnival". In this app you can play thre
 
 
 <B>Meta</B>
-Lucas Petti Martins
-luc_petti@hotmail.com
+<br>Lucas Petti Martins</br>
+<br>luc_petti@hotmail.com</br>
